@@ -18,7 +18,7 @@
 
 ## 📥 Installation
 
-1. [Release Section](../../releases) থেকে **Railway-Bot.zip** ডাউনলোড করুন  
+1. [Release Section][(../../releases)](https://github.com/Shri7ul/Railway-Ticket-automate/commit/d75f608cf2cf77c9f8077f9a12501e1517fa2add) থেকে **Railway-Bot.zip** ডাউনলোড করুন  
 2. Zip ফাইল Extract করুন  
 3. ভেতরে পাবেন:  
    - `app.exe` → Main Bot  
