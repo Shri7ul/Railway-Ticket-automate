@@ -18,7 +18,7 @@
 
 ## 📥 Installation
 
-1. [Release Section][(./dist.zip)]) থেকে **Railway-Bot.zip** ডাউনলোড করুন  
+1. [See details here](./dist.zip) থেকে **Railway-Bot.zip** ডাউনলোড করুন  
 2. Zip ফাইল Extract করুন  
 3. ভেতরে পাবেন:  
    - `app.exe` → Main Bot  
